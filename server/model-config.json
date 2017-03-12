@@ -37,5 +37,9 @@
   },
   "Message": {
     "dataSource": null
+  },
+  "student": {
+    "dataSource": "db",
+    "public": true
   }
 }
